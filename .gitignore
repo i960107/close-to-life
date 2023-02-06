@@ -3,6 +3,7 @@ conf.yaml
 .idea/
 **/.idea/
 .DS_Store/
+/**/.DS_Store
 
 .res/
 
