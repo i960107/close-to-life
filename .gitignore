@@ -1,0 +1,7 @@
+conf.yaml
+
+.idea/
+**/.idea/
+.DS_Store/
+
+.res/
