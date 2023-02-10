@@ -5,6 +5,6 @@ conf.yaml
 .DS_Store/
 /**/.DS_Store
 
-.res/
+res/
 
 **/__pycache__/
